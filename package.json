@@ -1,0 +1,24 @@
+{
+  "name": "efs",
+  "version": "1.0.0",
+  "description": "Electron Framework Study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrov/EFS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrov/EFS/issues"
+  },
+  "homepage": "https://github.com/mrov/EFS#readme",
+  "dependencies": {
+    "electron": "^1.8.2"
+  },
+  "devDependencies": {}
+}
